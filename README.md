@@ -1,6 +1,6 @@
 See blog post: https://summitroute.com/blog/2020/11/24/setting_up_personal_gsuite_backups_on_aws/
 
-<img src="https://raw.githubusercontent.com/summitroute/backup_runner/main/docs/backup_architecture.png" width=100% alt="Backup architecture">
+<img src="https://raw.githubusercontent.com/summitroute/backup_runner/master/docs/backup_architecture.png" alt="Backup architecture">
 
 Setup
 =====
