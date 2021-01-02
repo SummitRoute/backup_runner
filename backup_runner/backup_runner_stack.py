@@ -166,7 +166,6 @@ class BackupRunnerStack(core.Stack):
                 backup.BackupVaultEvents.BACKUP_JOB_EXPIRED,
                 backup.BackupVaultEvents.BACKUP_JOB_FAILED,
                 backup.BackupVaultEvents.COPY_JOB_FAILED,
-                backup.BackupVaultEvents.RECOVERY_POINT_MODIFIED,
                 backup.BackupVaultEvents.COPY_JOB_FAILED,
                 backup.BackupVaultEvents.COPY_JOB_STARTED,
                 backup.BackupVaultEvents.RESTORE_JOB_COMPLETED,
